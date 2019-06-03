@@ -1,0 +1,17 @@
+{
+  "name": "***REMOVED***-***REMOVED***-theorem",
+  "version": "1.0.0",
+  "description": "A small snippet of code for the Theorem remote JavaScript development application",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "***REMOVED*** ***REMOVED***",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
