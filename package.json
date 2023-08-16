@@ -1,5 +1,5 @@
 {
-  "name": "***REMOVED***-***REMOVED***-theorem",
+  "name": "erin-eland-theorem",
   "version": "1.0.0",
   "description": "A small snippet of code for the Theorem remote JavaScript development application",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "***REMOVED*** ***REMOVED***",
+  "author": "Erin Eland",
   "license": "ISC",
   "devDependencies": {
     "jest": "^24.8.0"
